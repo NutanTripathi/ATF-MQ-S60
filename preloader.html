@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <title>travel</title>
+  </head>
+  <body onload="myFunction()">
+    <div id="loader">
+
+    </div>
+    <div id="myDiv" style="display:none;">
+
+       <h1>AUGMENTO</h1>
+    </div>
+    <script type="text/javascript">
+    var myVar;
+
+   function myFunction() {
+   myVar = setTimeout(showPage, 6000);
+  }
+
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+
+
+    </script>
+
+  </body>
+</html>

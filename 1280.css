@@ -1,0 +1,13 @@
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
+	.clients {
+		margin-top: 17% !important;
+	}
+
+	.work {
+		margin-top: 0%;
+	}
+
+	.faq {
+		margin-top: 30% !important;
+	}
+}

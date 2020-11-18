@@ -1,0 +1,94 @@
+@media screen and (min-width: 539px) and (max-width: 540px) {
+	.nav-links {
+		display: none !important;
+	}
+
+	.nav-brand {
+		margin: auto !important; 
+	}
+
+	.home {
+		flex-direction: column;
+	}
+
+	.home .right img {
+		width: 50%;
+		margin-left: 25%;
+	}
+
+	.vision {
+		margin-top: 10%;
+	}
+
+	.visionBox {
+		flex-direction: column;
+		height: 120vh;
+	}
+
+	.products {
+		margin-top: 50%;
+	}
+
+	.card-container {
+		flex-direction: column;
+		margin-left: 15%;
+	}
+
+	.testimonials-container {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.tablinks {
+		width: 50%;
+	}
+
+	.testimonials-content {
+		margin-top: 20%;
+	}
+
+	.client-container {
+		flex-direction: column;
+	}
+
+	.client-card {
+		width: 70%;
+	}
+
+	.faq {
+		margin-top: 150%;
+	}
+
+	.faq-container {
+		flex-direction: column;
+	}
+
+	details {
+		width: 100%;
+	}
+
+	summary {
+		width: 100%;
+	}
+
+	.accordions {
+		width: 100%;
+	}
+
+	.contact {
+		text-align: center;
+	}
+
+	.contact-container {
+		flex-direction: column;
+	}
+
+	.contact-div1 {
+		margin-left: -8%;
+	}
+
+	.contact-div2 {
+		margin-left: 25%;
+	}
+
+}

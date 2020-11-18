@@ -1,0 +1,24 @@
+/* PIXEL 2 (width: 411px) */
+
+@media only screen and (min-width: 361px) and (max-width: 480px) {
+	.visionBox {
+		height: 123vh !important;
+	}
+	
+	.products {
+		margin-top: 65%;
+	}
+
+	.tablinks {
+		width: 37%;
+		margin-left: 8%;
+	}
+
+	.tablinks img {
+		margin-left: -35%;
+	}
+
+	.work {
+		margin-top: 10%;
+	}
+}

@@ -1,0 +1,18 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+	.visionBox {
+		height: 35vh;
+	}
+	
+	.products {
+		margin-top: -55%;
+	}
+
+	.client-container {
+		flex-direction: column;
+	}
+
+	.client-card {
+		width: 50%;
+		margin-left: 25%;
+	}
+}
